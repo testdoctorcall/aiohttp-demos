@@ -14,31 +14,6 @@ aiohttp-demos
 
 Demos for `aiohttp <https://aiohttp.readthedocs.io>`_ project.
 
-
-.. contents::
-
-Imagetagger Deep Learning Image Classifier
-------------------------------------------
-Example how to deploy deep learning model with aiohttp.
-
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/imagetagger.png
-
-
-URL shortener
--------------
-Simple URL shortener with Redis storage.
-
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/shorty.png
-
-
-Toxic Comments Classifier
--------------------------
-UI and API for classification of offensive and toxic comments using Kaggle data and simple
-logistic regression.
-
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/moderator.png
-
-
 Twitter clone
 -------------
 Twitter clone with MongoDB storage.
